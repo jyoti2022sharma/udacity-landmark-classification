@@ -1,2 +1,4 @@
 # udacity-landmark-classification
-udacity land mark classification project
+udacity land mark classification project - CNN
+
+
